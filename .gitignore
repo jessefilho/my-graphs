@@ -8,11 +8,14 @@
 /vendor/
 ###< symfony/framework-bundle ###
 
+<<<<<<< HEAD
 ###> symfony/phpunit-bridge ###
 .phpunit
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+=======
+>>>>>>> 266fd3acc5610ddb9f9e2704bde09104541f5b75
 ###> symfony/web-server-bundle ###
 /.web-server-pid
 ###< symfony/web-server-bundle ###
